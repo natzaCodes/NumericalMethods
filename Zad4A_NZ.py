@@ -1,7 +1,7 @@
 """
-Created on Fri Apr  1 14:27:28 2022
-Czesc A - wielomian interpolacyjny - punkty wraz z wielomianem na wykresie
-@author: Natalia
+Created on Fri Apr  1  2022
+interpolation polynomial - points with the polynomial on the graph
+@author: Natalia Zalewska
 """
 
 import numpy as np
