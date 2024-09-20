@@ -1,7 +1,7 @@
 """
 Created on Thu Jun  9 23:27:51 2022
 @author: Natalia
-Zadanie domowe 11
+ordinary differential equations solver: RK comapred with predictor-corrector method
 """
 import numpy as np
 import matplotlib.pyplot as plt
