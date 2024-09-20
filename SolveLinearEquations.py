@@ -1,7 +1,7 @@
 """
-Created on Fri Apr 22 14:22:13 2022
+Created on Fri Apr 22  2022
 @author: Natalia
-Zadanie zaliczeniowe 6
+solving a system of linear equations using Gauss Jordan method and LU decomposition method
 """
 import numpy as np
 import sys
