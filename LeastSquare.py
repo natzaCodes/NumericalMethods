@@ -1,6 +1,7 @@
 """
 @author: Natalia
-Zadanie Zaliczeniowe 3 - metoda najmniejszych kwadratów
+Date: 3.05.2022
+Least Square Method
 """
 
 import numpy as np
