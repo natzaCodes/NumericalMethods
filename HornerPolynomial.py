@@ -1,6 +1,7 @@
 """
 @author: Natalia Zalewska
-Zadanie Zaliczeniowe 2 - wyliczanie wartosci zadanego wielomianu z użyciem schematu Hornera
+Date: 2.05.2022
+calculating the value of a given polynomial using Horner's scheme
 """
 
 
