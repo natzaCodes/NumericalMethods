@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri Apr 29 14:58:36 2022
-@author: Natalia
-Zadanie zaliczeniowe 7
+Created on Fri Apr 29 2022
+@author: Natalia Zalewska
+Application of the Gauss Jordan method
 """
 import numpy as np
 import numpy.linalg
