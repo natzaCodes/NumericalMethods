@@ -1,7 +1,7 @@
 """
-Created on Mon Apr 18 16:23:59 2022
+Created on Mon Apr 18 2022
 @author: Natalia
-Zadanie zaliczeniowe 5 - wyznaczanie miejsc zerowych
+Finding zero point using four different methods
 """
 
 import numpy as np
