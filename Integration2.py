@@ -1,7 +1,7 @@
 """
-Created on Fri May 20 15:29:28 2022
-@author: Natalia
-Zadanie zaliczeniowe 9
+Created on Fri May 20 2022
+@author: Natalia Zalewska
+Newton-Cotes Quadrature - numerical integration
 """
 
 import numpy as np
