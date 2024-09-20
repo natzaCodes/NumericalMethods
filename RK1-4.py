@@ -1,7 +1,7 @@
 """
-Created on Fri May 27 14:57:45 2022
-@author: Natalia
-Zadanie 10
+Created on Fri May 27 2022
+@author: Natalia Zalewska
+ordinary differential equations solver
 """
 import numpy as np
 
