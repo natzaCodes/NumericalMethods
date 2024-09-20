@@ -1,7 +1,7 @@
 """
-Created on Fri Apr  8 03:21:01 2022
-Czesc B - algorytm Neville'a, rysowanie wielomianu zadanego oraz wyinterpolowanego
-@author: Natalia
+Created on Fri Apr  8  2022
+Neville's algorithm, drawing a given and interpolated polynomial
+@author: Natalia Zalewska
 """
 
 import numpy as np
