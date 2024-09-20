@@ -1,7 +1,7 @@
 """
-Created on Fri May 13 14:40:24 2022
-@author: Natalia
-Kwadratury Gaussa-Legendre'a
+Created on Fri May 13 2022
+@author: Natalia Zalewska
+Gauss-Legendre Quadrature - numerical integration
 """
 import numpy as np
 import scipy.special
